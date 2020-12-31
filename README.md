@@ -2,6 +2,8 @@
 
 APK repository with the latest available versions of csc-lab applications.
 
+Supported languages: English and Spanish.
+
 #### WEB SITE
 [https://csc-lab.xyz](https://csc-lab.xyz)
 
