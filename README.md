@@ -28,9 +28,6 @@ anime_cast@csc-lab.xyz
 #### COMPLETE VERSION
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/anime_cast.apk)
 
-#### LITE VERSION
-[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/anime_cast_google_play.apk)
-
 ## MANGACAST
 
 <img src="http://mangacast.csc-lab.xyz/img/cover.png"  width="200" height="200">
