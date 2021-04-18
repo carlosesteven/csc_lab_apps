@@ -44,6 +44,24 @@ manga_cast@csc-lab.xyz
 
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/manga_cast.apk)
 
+## DORAMACAST
+
+<img src="http://doramacast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+
+Manga Cast allow you to enjoy of your favorite mangas from the comfort of your mobile, allowing you to be up to date with all the latest news.
+
+#### WEB SITE
+[http://doramacast.csc-lab.xyz](http://doramacast.csc-lab.xyz)
+
+#### EMAIL ADDRESS
+manga_cast@csc-lab.xyz
+
+#### COMPLETE VERSION
+
+[Google Play](https://play.google.com/store/apps/details?id=csc.dorama.cast)
+
+[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/dorama_cast.apk)
+
 ## HENTAICAST
 
 <img src="http://hentaicast.csc-lab.xyz/img/cover.png"  width="200" height="200">
