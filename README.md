@@ -54,7 +54,7 @@ Manga Cast allow you to enjoy of your favorite mangas from the comfort of your m
 [http://doramacast.csc-lab.xyz](http://doramacast.csc-lab.xyz)
 
 #### EMAIL ADDRESS
-manga_cast@csc-lab.xyz
+dorama_cast@csc-lab.xyz
 
 #### COMPLETE VERSION
 
