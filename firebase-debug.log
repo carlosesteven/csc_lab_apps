@@ -1,8 +1,0 @@
-[debug] [2021-04-18T05:25:06.015Z] ----------------------------------------------------------------------
-[debug] [2021-04-18T05:25:06.019Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\estev\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy --only hosting
-[debug] [2021-04-18T05:25:06.020Z] CLI Version:   7.11.0
-[debug] [2021-04-18T05:25:06.020Z] Platform:      win32
-[debug] [2021-04-18T05:25:06.020Z] Node Version:  v10.16.3
-[debug] [2021-04-18T05:25:06.022Z] Time:          Sun Apr 18 2021 00:25:06 GMT-0500 (GMT-05:00)
-[debug] [2021-04-18T05:25:06.022Z] ----------------------------------------------------------------------
-[debug] [2021-04-18T05:25:06.022Z] 
