@@ -58,8 +58,6 @@ dorama_cast@csc-lab.xyz
 
 #### COMPLETE VERSION
 
-[Google Play](https://play.google.com/store/apps/details?id=csc.dorama.cast)
-
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/dorama_cast.apk)
 
 ## HENTAICAST
