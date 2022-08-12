@@ -12,7 +12,7 @@ support@csc-lab.xyz
 
 ## ANIMECAST 
 
-<img src="https://animecast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+<img src="https://animecast.csc-lab.xyz/img/logo_v3.png"  width="200" height="200">
 
 Anime Cast allow you to enjoy of your favorite animes from the comfort of your mobile, allowing you to be up to date with all the latest releases.
 
@@ -28,7 +28,7 @@ anime_cast@csc-lab.xyz
 
 ## MANGACAST
 
-<img src="https://mangacast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+<img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 Manga Cast allow you to enjoy of your favorite mangas from the comfort of your mobile, allowing you to be up to date with all the latest news.
 
@@ -44,7 +44,7 @@ manga_cast@csc-lab.xyz
 
 ## DORAMACAST
 
-<img src="http://doramacast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+<img src="http://doramacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
 Manga Cast allow you to enjoy of your favorite mangas from the comfort of your mobile, allowing you to be up to date with all the latest news.
 
@@ -60,12 +60,12 @@ dorama_cast@csc-lab.xyz
 
 ## HENTAICAST
 
-<img src="http://hentaicast.csc-lab.xyz/img/cover.png"  width="200" height="200">
+<img src="https://hentaicast.csc-lab.xyz/img/hentai_cast_v1.png"  width="200" height="200">
 
 Hentai Cast allow you to enjoy of your favorite hentai from the comfort of your mobile, allowing you to be up to date with all the latest releases.
 
 #### WEB SITE
-[http://hentaicast.csc-lab.xyz](http://hentaicast.csc-lab.xyz)
+[https://hentaicast.csc-lab.xyz](http://hentaicast.csc-lab.xyz)
 
 #### EMAIL ADDRESS
 hentai_cast@csc-lab.xyz
