@@ -10,7 +10,7 @@ Supported languages: English and Spanish.
 #### EMAIL ADDRESS
 support@csc-lab.xyz
 
-## ANIMECAST 
+## ANIME CAST 
 
 <img src="https://animecast.csc-lab.xyz/img/logo_v3.png"  width="200" height="200">
 
@@ -26,7 +26,7 @@ anime_cast@csc-lab.xyz
 #### LASTEST VERSION
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/anime_cast.apk)
 
-## MANGACAST
+## MANGA CAST
 
 <img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
@@ -42,7 +42,7 @@ manga_cast@csc-lab.xyz
 
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/manga_cast.apk)
 
-## DORAMACAST
+## DORAMA CAST
 
 <img src="http://doramacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
 
@@ -58,7 +58,7 @@ dorama_cast@csc-lab.xyz
 
 [Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/dorama_cast.apk)
 
-## HENTAICAST
+## HENTAI CAST
 
 <img src="https://hentaicast.csc-lab.xyz/img/hentai_cast_v1.png"  width="200" height="200">
 
