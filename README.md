@@ -65,7 +65,7 @@ dorama_cast@csc-lab.xyz
 Hentai Cast allow you to enjoy of your favorite hentai from the comfort of your mobile, allowing you to be up to date with all the latest releases.
 
 #### WEB SITE
-[https://hentaicast.csc-lab.xyz](http://hentaicast.csc-lab.xyz)
+[https://hentaicast.csc-lab.xyz](https://hentaicast.csc-lab.xyz)
 
 #### EMAIL ADDRESS
 hentai_cast@csc-lab.xyz
