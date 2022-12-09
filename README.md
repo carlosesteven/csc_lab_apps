@@ -49,7 +49,7 @@ manga_cast@csc-lab.xyz
 Manga Cast allow you to enjoy of your favorite mangas from the comfort of your mobile, allowing you to be up to date with all the latest news.
 
 #### WEB SITE
-[http://doramacast.csc-lab.xyz](http://doramacast.csc-lab.xyz)
+[https://doramacast.csc-lab.xyz](https://doramacast.csc-lab.xyz)
 
 #### EMAIL ADDRESS
 dorama_cast@csc-lab.xyz
