@@ -28,13 +28,13 @@ anime_cast@csc-lab.xyz
 
 ## MANGA CAST
 
-<img src="https://mangacast.csc-lab.xyz/img/logo_v1.png"  width="200" height="200">
+<img src="https://manga-cast.com/img/logo_v1.png"  width="200" height="200">
 
 Manga Cast allow you to enjoy of your favorite mangas from the comfort of your mobile, allowing you to be up to date with all the latest news.
 
 #### WEB SITE
-[https://manga-cast.com](https://manga-cast.com)
-[https://mangacast.csc-lab.xyz](https://mangacast.csc-lab.xyz)
+1. [https://manga-cast.com](https://manga-cast.com)
+2. [https://mangacast.csc-lab.xyz](https://mangacast.csc-lab.xyz)
 
 #### EMAIL ADDRESS
 manga_cast@csc-lab.xyz
