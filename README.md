@@ -24,7 +24,7 @@ Anime Cast allow you to enjoy of your favorite animes from the comfort of your m
 anime_cast@csc-lab.xyz
 
 #### LASTEST VERSION
-[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/anime_cast.apk)
+[Download](https://github.com/carlosesteven/csc_lab_apps/raw/master/anime_cast.apk)
 
 ## MANGA CAST
 
@@ -41,7 +41,24 @@ manga_cast@csc-lab.xyz
 
 #### LASTEST VERSION
 
-[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/manga_cast.apk)
+[Download](https://github.com/carlosesteven/csc_lab_apps/raw/master/manga_cast.apk)
+
+## HENTAI CAST
+
+<img src="https://hentaicast.csc-lab.xyz/img/hentai_cast_v2.png" width="200" height="200">
+
+Hentai Cast allow you to enjoy of your favorite hentai from the comfort of your mobile, allowing you to be up to date with all the latest releases.
+
+#### WEB SITE
+1. [https://hentaicast.com](https://hentaicast.com)
+2. [https://hentaicast.csc-lab.xyz](https://hentaicast.csc-lab.xyz)
+
+#### EMAIL ADDRESS
+hentai_cast@csc-lab.xyz
+
+#### LASTEST VERSION
+
+[Download](https://github.com/carlosesteven/csc_lab_apps/raw/master/hentai_cast.apk)
 
 ## DORAMA CAST
 
@@ -57,21 +74,4 @@ dorama_cast@csc-lab.xyz
 
 #### LASTEST VERSION
 
-[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/dorama_cast.apk)
-
-## HENTAI CAST
-
-<img src="https://hentaicast.csc-lab.xyz/img/hentai_cast_v2.png" width="200" height="200">
-
-Hentai Cast allow you to enjoy of your favorite hentai from the comfort of your mobile, allowing you to be up to date with all the latest releases.
-
-#### WEB SITE
-[https://hentaicast.csc-lab.xyz](https://hentaicast.csc-lab.xyz)
-
-#### EMAIL ADDRESS
-hentai_cast@csc-lab.xyz
-
-#### LASTEST VERSION
-
-[Download APK](https://github.com/carlosesteven/csc_lab_apps/raw/master/hentai_cast.apk)
-
+[Download](https://github.com/carlosesteven/csc_lab_apps/raw/master/dorama_cast.apk)
