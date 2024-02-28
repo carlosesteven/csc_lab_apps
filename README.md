@@ -1,6 +1,6 @@
 # CSC LAB - APPS
 
-APK repository with the latest available versions of csc-lab applications.
+Repository with the latest available versions of csc-lab applications.
 
 Supported languages: English and Spanish.
 
